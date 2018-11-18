@@ -8,7 +8,7 @@
 git clone https://github.com/erichhhhho/DM6190_Coursework/
 cd DM6190_Coursework
 conda env create environment.yml
-source activate dlproject
+source activate DM6190
 ```
 
 ### Download dataset
