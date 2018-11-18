@@ -5,8 +5,8 @@
 ### Environment Set-up
 
 ```bash
-git clone https://github.com/erichhhhho/DM6190_Courswork/
-cd DM6190_Courswork
+git clone https://github.com/erichhhhho/DM6190_Coursework/
+cd DM6190_Coursework
 conda env create environment.yml
 source activate dlproject
 ```
